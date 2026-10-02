@@ -64,7 +64,6 @@ export default function Home() {
           </div>
         </div>
         <div className="hero-text">
-          <span className="badge">{profile.badge}</span>
           <h1>
             <span>{profile.name}</span>
           </h1>
